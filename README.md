@@ -1,10 +1,8 @@
 # 漂流书架
 
----
-
-> 关于我，欢迎关注：
-> Github 主页：[MrCai-starter (github.com)](https://github.com/MrCai-starter)
-> 个人邮箱：1014305148@qq.com
+> 关于我，欢迎关注：  
+> Github 主页：[MrCai-starter (github.com)](https://github.com/MrCai-starter)  
+> 个人邮箱：1014305148@qq.com  
 > 工作邮箱：yuwangcai@std.uestc.edu.cn
 
 ## 项目介绍
